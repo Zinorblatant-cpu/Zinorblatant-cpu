@@ -21,12 +21,24 @@
 
 Desenvolvedor de software que gosta de usar matemática para resolver problemas reais.
 
-| | |
-|:--|:--|
-| **Trabalho** | Estagiário na **Foursys** e consultor como PJ |
-| **Estudando** | Modelagem matemática aplicada a consultorias e a linguagem **Go** |
-| **Hobby** | Física |
-| **Fale comigo sobre** | Física, matemática, xadrez, música, filosofia e tecnologia |
+<table>
+  <tr>
+    <td><b>Trabalho</b></td>
+    <td>Estagiário na <b>Foursys</b> e consultor como PJ</td>
+  </tr>
+  <tr>
+    <td><b>Estudando</b></td>
+    <td>Modelagem matemática aplicada a consultorias e a linguagem <b>Go</b></td>
+  </tr>
+  <tr>
+    <td><b>Hobby</b></td>
+    <td>Física</td>
+  </tr>
+  <tr>
+    <td><b>Fale comigo sobre</b></td>
+    <td>Física, matemática, xadrez, música, filosofia e tecnologia</td>
+  </tr>
+</table>
 
 ## Experiência Profissional
 
