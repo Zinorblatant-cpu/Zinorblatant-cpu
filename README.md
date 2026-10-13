@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalho na **Four Seas** e presto consultorias como PJ
+- 🔭 Atualmente trabalho na **Foursys** e presto consultorias como PJ
 - 🌱 Estudando modelagem matemática aplicada a consultorias e a linguagem **Go**
 - ⚛️ Nas horas vagas, estudo física por hobby
 - 💬 Fale comigo sobre: física, matemática, xadrez, música, filosofia e tecnologia
@@ -22,7 +22,7 @@
 
 ## 💼 Experiência Profissional
 
-### Estagiário — Four Seas (atual)
+### Estagiário — Foursys (atual)
 - Desenvolvimento de aplicações web e de conteúdo com Adobe Experience Manager
 - Tecnologias usadas: `Adobe Experience Manager`, `JavaScript`, `TypeScript`, `React`, `HTML`, `CSS`
 
