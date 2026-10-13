@@ -22,7 +22,7 @@
 
 ## 💼 Experiência Profissional
 
-### Estagiário — Foursys (atual)
+### Estagiário — Foursys (mar/2026 – atual)
 - Desenvolvimento de aplicações web e de conteúdo com Adobe Experience Manager
 - Tecnologias usadas: `Adobe Experience Manager`, `JavaScript`, `TypeScript`, `React`, `HTML`, `CSS`
 
