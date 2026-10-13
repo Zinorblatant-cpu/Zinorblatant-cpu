@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Leonardo Lopes 👋</h1>
+<h1 align="center">Olá, eu sou Leonardo Lopes</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Entusiasta+de+Modelagem+Matem%C3%A1tica;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -11,16 +11,16 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 🔭 Atualmente trabalho na **Foursys** e presto consultorias como PJ
-- 🌱 Estudando modelagem matemática aplicada a consultorias e a linguagem **Go**
-- ⚛️ Nas horas vagas, estudo física por hobby
-- 💬 Fale comigo sobre: física, matemática, xadrez, música, filosofia e tecnologia
+- Atualmente trabalho na **Foursys** e presto consultorias como PJ
+- Estudando modelagem matemática aplicada a consultorias e a linguagem **Go**
+- Nas horas vagas, estudo física por hobby
+- Fale comigo sobre: física, matemática, xadrez, música, filosofia e tecnologia
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 ### Estagiário — Foursys (mar/2026 – atual)
 - Desenvolvimento de aplicações web e de conteúdo com Adobe Experience Manager
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Já domino
 <p>
@@ -55,7 +55,7 @@
 
 ---
 
-## ♾️ Modelagem Matemática
+## Modelagem Matemática
 
 Estudo modelagem matemática com foco em aplicá-la a problemas reais de consultoria, usando ferramentas como:
 
@@ -69,7 +69,7 @@ Um exemplo prático: desenvolvi um gerenciador de horários escolares que trata 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&theme=tokyonight" />
@@ -82,7 +82,7 @@ Um exemplo prático: desenvolvi um gerenciador de horários escolares que trata 
 
 ---
 
-## 🐍 Minha cobrinha comendo meus commits
+## Minha cobrinha comendo meus commits
 
 <p align="center">
   <picture>
@@ -94,7 +94,7 @@ Um exemplo prático: desenvolvi um gerenciador de horários escolares que trata 
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p>
   <a href="mailto:leonardolopesoliveira851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
