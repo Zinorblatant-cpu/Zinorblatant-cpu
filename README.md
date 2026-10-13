@@ -28,6 +28,7 @@
 
 ### Consultor e Desenvolvedor Freelancer — PJ
 - Consultorias e projetos de computação sob demanda para clientes
+- **Gerenciador de horários escolares:** sistema que monta a grade de aulas automaticamente a partir das restrições de disponibilidade dos professores, formulando o problema com modelagem matemática e oferecendo uma interface web em React
 - Tecnologias usadas: `Python`, `JavaScript`, `TypeScript`, `React`, `Bancos de dados relacionais`
 
 ---
@@ -63,6 +64,8 @@ Estudo modelagem matemática com foco em aplicá-la a problemas reais de consult
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
 </p>
+
+Um exemplo prático: desenvolvi um gerenciador de horários escolares que trata a montagem da grade como um problema de otimização com restrições, respeitando a disponibilidade de cada professor.
 
 ---
 
