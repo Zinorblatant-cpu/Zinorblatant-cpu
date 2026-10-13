@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E9EF7&height=190&section=header&text=Leonardo%20Lopes&fontColor=ffffff&fontSize=52&fontAlignY=36" alt="Leonardo Lopes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6E40C9&height=190&section=header&text=Leonardo%20Lopes&fontColor=ffffff&fontSize=52&fontAlignY=36" alt="Leonardo Lopes" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Entusiasta+de+Modelagem+Matem%C3%A1tica;Sempre+aprendendo+algo+novo" alt="Desenvolvedor de Software, entusiasta de Modelagem Matemática" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Entusiasta+de+Modelagem+Matem%C3%A1tica;Sempre+aprendendo+algo+novo" alt="Desenvolvedor de Software, entusiasta de Modelagem Matemática" />
 </p>
 
 <p align="center">
@@ -90,12 +90,12 @@ Estudo modelagem matemática com foco em aplicá-la a problemas reais de consult
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinorblatant-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinorblatant-cpu&layout=compact&theme=tokyonight&title_color=A371F7&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&theme=tokyonight&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
 ## Contribuições
@@ -109,5 +109,5 @@ Estudo modelagem matemática com foco em aplicá-la a problemas reais de consult
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E9EF7&height=110&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6E40C9&height=110&section=footer" alt="" />
 </p>
