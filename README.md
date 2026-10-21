@@ -1,110 +1,107 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6E40C9&height=190&section=header&text=Leonardo%20Lopes&fontColor=ffffff&fontSize=52&fontAlignY=36" alt="Leonardo Lopes" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img width="100%" alt="Leonardo Lopes — Software developer and mathematical modeling" src="assets/header-dark.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Software+Developer;Mathematical+Modeling+Enthusiast;Always+learning+something+new" alt="Software Developer, Mathematical Modeling Enthusiast" />
-</p>
-
-## >_ Hello, there!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-01-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-01-light.svg" />
+  <img width="100%" alt="01 Hello, there" src="assets/section-01-dark.svg" />
+</picture>
 
 I'm **Leonardo Lopes**, a Brazilian software developer who enjoys using mathematics to solve real-world problems. *(Yes, the math part is on purpose.)*
 
 I'm currently an intern at **Foursys** and also work as an independent consultant. Outside of work, I study physics as a hobby, and I'm always up for a conversation about math, chess, music, philosophy or technology.
 
-## >_ About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-02-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-02-light.svg" />
+  <img width="100%" alt="02 About me" src="assets/section-02-dark.svg" />
+</picture>
 
-* **Intern** at Foursys *(since Mar 2026)*
+* **Intern** at Foursys &nbsp;`MAR 2026 – PRESENT`
 * **Independent consultant** and freelance developer
 * **Studying** mathematical modeling applied to consulting, and the **Go** language
 * **Hobby:** physics
 
-## >_ Experience
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-03-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-03-light.svg" />
+  <img width="100%" alt="03 Experience" src="assets/section-03-dark.svg" />
+</picture>
 
-### Intern · Foursys
-`Mar 2026 – present`
+**Intern · Foursys** &nbsp;`MAR 2026 – PRESENT`
 
 - Development of web applications and content with Adobe Experience Manager
 
-**Stack:** `Adobe Experience Manager` `JavaScript` `TypeScript` `React` `HTML` `CSS`
+`AEM` `JAVASCRIPT` `TYPESCRIPT` `REACT` `HTML` `CSS`
 
-### Consultant & Freelance Developer
+**Consultant & Freelance Developer** &nbsp;`INDEPENDENT`
 
 - Consulting and on-demand software projects for clients
 - **School timetable manager:** a system that automatically builds class schedules from teachers' availability constraints, modeling the problem mathematically and providing a web interface built with React
 
-**Stack:** `Python` `JavaScript` `TypeScript` `React` `Relational databases`
+`PYTHON` `JAVASCRIPT` `TYPESCRIPT` `REACT` `RELATIONAL DATABASES`
 
-## >_ Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-04-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-04-light.svg" />
+  <img width="100%" alt="04 Tech stack" src="assets/section-04-dark.svg" />
+</picture>
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Experience Manager">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data &amp; Modeling</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Currently Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img width="100%" alt="Tech stack: Python, JavaScript, TypeScript, C, React, HTML, CSS, Adobe Experience Manager, NumPy, Pandas; learning Go and LaTeX" src="assets/stack-dark.svg" />
+</picture>
 
-## >_ Mathematical Modeling
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-05-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-05-light.svg" />
+  <img width="100%" alt="05 Mathematical modeling" src="assets/section-05-dark.svg" />
+</picture>
 
 I study mathematical modeling with a focus on applying it to real consulting problems.
 
-> **In practice:** I built a school timetable manager that treats building the class schedule as a constrained optimization problem, respecting each teacher's availability.
+> `INFO` &nbsp;I built a school timetable manager that treats building the class schedule as a constrained optimization problem, respecting each teacher's availability.
 
-## >_ Statistics &amp; Social
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-06-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-06-light.svg" />
+  <img width="100%" alt="06 Statistics" src="assets/section-06-dark.svg" />
+</picture>
 
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&theme=tokyonight&hide_border=true&card_width=850&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" alt="Contribution streak" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&card_width=850&border_radius=10&background=101013&border=2A2D33&stroke=2A2D33&ring=FAFAFA&fire=9A9A9E&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=9A9A9E&dates=8B8B95" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&card_width=850&border_radius=10&background=FFFFFF&border=DCDCD8&stroke=DCDCD8&ring=0F1012&fire=55565C&currStreakNum=0F1012&sideNums=0F1012&currStreakLabel=0F1012&sideLabels=55565C&dates=5F6066" />
+  <img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&card_width=850&border_radius=10&background=101013&border=2A2D33&stroke=2A2D33&ring=FAFAFA&fire=9A9A9E&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=9A9A9E&dates=8B8B95" />
+</picture>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=A371F7" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinorblatant-cpu&layout=compact&theme=tokyonight&hide_border=true&title_color=A371F7" alt="Most used languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&border_radius=10&bg_color=101013&border_color=2A2D33&title_color=FAFAFA&text_color=C8C8D0&icon_color=9A9A9E&ring_color=FAFAFA" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&border_radius=10&bg_color=FFFFFF&border_color=DCDCD8&title_color=0F1012&text_color=393A3F&icon_color=55565C&ring_color=0F1012" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&border_radius=10&bg_color=101013&border_color=2A2D33&title_color=FAFAFA&text_color=C8C8D0&icon_color=9A9A9E&ring_color=FAFAFA" />
+</picture>
 
-<div align="center">
-  <a href="mailto:leonardolopesoliveira851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/leonardo-lopes-oliveira-022567269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/sixn_019/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
+<a href="mailto:leonardolopesoliveira851@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg" /><img alt="Email" src="assets/btn-email-dark.svg" /></picture></a>
+<a href="https://www.linkedin.com/in/leonardo-lopes-oliveira-022567269/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg" /><img alt="LinkedIn" src="assets/btn-linkedin-dark.svg" /></picture></a>
+<a href="https://www.instagram.com/sixn_019/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/btn-instagram-light.svg" /><img alt="Instagram" src="assets/btn-instagram-dark.svg" /></picture></a>
 
-## >_ Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-07-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-07-light.svg" />
+  <img width="100%" alt="07 Contributions" src="assets/section-07-dark.svg" />
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6E40C9&height=110&section=footer" alt="" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img width="100%" alt="" src="assets/footer-dark.svg" />
+</picture>
