@@ -3,64 +3,43 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Entusiasta+de+Modelagem+Matem%C3%A1tica;Sempre+aprendendo+algo+novo" alt="Desenvolvedor de Software, entusiasta de Modelagem Matemática" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Software+Developer;Mathematical+Modeling+Enthusiast;Always+learning+something+new" alt="Software Developer, Mathematical Modeling Enthusiast" />
 </p>
 
-<p align="center">
-  <a href="mailto:leonardolopesoliveira851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/leonardo-lopes-oliveira-022567269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/sixn_019/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+## >_ Hello, there!
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Zinorblatant-cpu?label=Seguidores&style=social" alt="Seguidores">
-  <img src="https://img.shields.io/github/stars/Zinorblatant-cpu?label=Stars&style=social" alt="Stars">
-</p>
+I'm **Leonardo Lopes**, a Brazilian software developer who enjoys using mathematics to solve real-world problems. *(Yes, the math part is on purpose.)*
 
-## Sobre mim
+I'm currently an intern at **Foursys** and also work as an independent consultant. Outside of work, I study physics as a hobby, and I'm always up for a conversation about math, chess, music, philosophy or technology.
 
-Desenvolvedor de software que gosta de usar matemática para resolver problemas reais.
+## >_ About Me
+
+* **Intern** at Foursys *(since Mar 2026)*
+* **Independent consultant** and freelance developer
+* **Studying** mathematical modeling applied to consulting, and the **Go** language
+* **Hobby:** physics
+
+## >_ Experience
+
+### Intern · Foursys
+`Mar 2026 – present`
+
+- Development of web applications and content with Adobe Experience Manager
+
+**Stack:** `Adobe Experience Manager` `JavaScript` `TypeScript` `React` `HTML` `CSS`
+
+### Consultant & Freelance Developer
+
+- Consulting and on-demand software projects for clients
+- **School timetable manager:** a system that automatically builds class schedules from teachers' availability constraints, modeling the problem mathematically and providing a web interface built with React
+
+**Stack:** `Python` `JavaScript` `TypeScript` `React` `Relational databases`
+
+## >_ Tech Stack
 
 <table>
   <tr>
-    <td><b>Trabalho</b></td>
-    <td>Estagiário na <b>Foursys</b> e consultor como PJ</td>
-  </tr>
-  <tr>
-    <td><b>Estudando</b></td>
-    <td>Modelagem matemática aplicada a consultorias e a linguagem <b>Go</b></td>
-  </tr>
-  <tr>
-    <td><b>Hobby</b></td>
-    <td>Física</td>
-  </tr>
-  <tr>
-    <td><b>Fale comigo sobre</b></td>
-    <td>Física, matemática, xadrez, música, filosofia e tecnologia</td>
-  </tr>
-</table>
-
-## Experiência Profissional
-
-### Estagiário · Foursys
-`mar/2026 – atual`
-
-- Desenvolvimento de aplicações web e de conteúdo com Adobe Experience Manager
-
-**Tecnologias:** `Adobe Experience Manager` `JavaScript` `TypeScript` `React` `HTML` `CSS`
-
-### Consultor e Desenvolvedor Freelancer · PJ
-
-- Consultorias e projetos de computação sob demanda para clientes
-- **Gerenciador de horários escolares:** sistema que monta a grade de aulas automaticamente a partir das restrições de disponibilidade dos professores, formulando o problema com modelagem matemática e oferecendo uma interface web em React
-
-**Tecnologias:** `Python` `JavaScript` `TypeScript` `React` `Bancos de dados relacionais`
-
-## Tecnologias
-
-<table>
-  <tr>
-    <td><b>Linguagens</b></td>
+    <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -78,14 +57,14 @@ Desenvolvedor de software que gosta de usar matemática para resolver problemas 
     </td>
   </tr>
   <tr>
-    <td><b>Dados e modelagem</b></td>
+    <td><b>Data &amp; Modeling</b></td>
     <td>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     </td>
   </tr>
   <tr>
-    <td><b>Aprendendo agora</b></td>
+    <td><b>Currently Learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
       <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
@@ -93,30 +72,36 @@ Desenvolvedor de software que gosta de usar matemática para resolver problemas 
   </tr>
 </table>
 
-## Modelagem Matemática
+## >_ Mathematical Modeling
 
-Estudo modelagem matemática com foco em aplicá-la a problemas reais de consultoria.
+I study mathematical modeling with a focus on applying it to real consulting problems.
 
-> **Exemplo prático:** desenvolvi um gerenciador de horários escolares que trata a montagem da grade como um problema de otimização com restrições, respeitando a disponibilidade de cada professor.
+> **In practice:** I built a school timetable manager that treats building the class schedule as a constrained optimization problem, respecting each teacher's availability.
 
-## Estatísticas do GitHub
+## >_ Statistics &amp; Social
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&theme=tokyonight&hide_border=true&card_width=850&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" alt="Contribution streak" />
+</div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinorblatant-cpu&layout=compact&theme=tokyonight&title_color=A371F7&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zinorblatant-cpu&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=A371F7" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinorblatant-cpu&layout=compact&theme=tokyonight&hide_border=true&title_color=A371F7" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zinorblatant-cpu&theme=tokyonight&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&hide_border=true" alt="Sequência de contribuições" />
-</p>
+<div align="center">
+  <a href="mailto:leonardolopesoliveira851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/leonardo-lopes-oliveira-022567269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/sixn_019/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
 
-## Contribuições
+## >_ Contributions
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake.svg" />
-    <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Zinorblatant-cpu/Zinorblatant-cpu/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
